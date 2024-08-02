@@ -1,0 +1,10 @@
+Charlie: 3 - Average experience.
+David: 2 - Not satisfied.
+Jack: 2 - Poor communication, disappointed.
+Kelly: 4 - Great value for money, friendly atmosphere.
+Liam: 1 - Terrible service, avoid at all costs.
+Ava: 4 - Courteous staff, good selection.
+James: 1 - Extremely disappointed, would not recommend.
+Sophia: 4 - Efficient service, friendly staff.
+Benjamin: 3 - Adequate service, room for improvement.
+Avery: 5 - Excellent service, very satisfied!
